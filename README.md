@@ -20,14 +20,14 @@ Styled with a VS Code-like dark theme for clean and modern appearance.
 
 ## Usage
 
-Include the script from CDN (use specific version for stability):
+Include minified script from CDN for better performance:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/kokhinmaungwin/BroCodeBox@1.1.0/brocodebox.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kokhinmaungwin/BroCodeBox@1.1.0/brocodebox.min.js"></script>
 ```
-Or use the latest (unstable) version:
+Or use the normal script:
 ```html
-<script src="https://kokhinmaungwin.github.io/BroCodeBox/brocodebox.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kokhinmaungwin/BroCodeBox@1.1.0/brocodebox.js"></script>
 ```
 Add HTML markup like this:
 ```html
