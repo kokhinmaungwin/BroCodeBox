@@ -89,8 +89,7 @@ Feel free to fork, submit issues or pull requests on GitHub.
 ---
 
 ## Contact
-
-- [![kokhinmaungwin](https://img.shields.io/badge/Author-Khin%20Maung%20Win-blue)](https://github.com/kokhinmaungwin)
+- ![Author](https://img.shields.io/badge/Author-Khin_Maung_Win-blue)
 
 - GitHub: [kokhinmaungwin](https://github.com/kokhinmaungwin)
   
