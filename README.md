@@ -24,13 +24,13 @@ Include the script from CDN (use specific version for stability):
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/kokhinmaungwin/BroCodeBox@1.1.0/brocodebox.js"></script>
-
+```
 Or use the latest (unstable) version:
-
+```html
 <script src="https://kokhinmaungwin.github.io/BroCodeBox/brocodebox.js"></script>
-
+```
 Add HTML markup like this:
-
+```html
 <div class="bro-box" 
      data-file="example.js" 
      data-lang="js" 
@@ -42,7 +42,7 @@ function hello() {
 }
   </code>
 </div>
-
+```
 data-file - File name to show and use for download (default: code.js)
 
 data-lang - Language label (shown but no real syntax switch yet)
