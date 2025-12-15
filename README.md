@@ -91,9 +91,9 @@ Feel free to fork, submit issues or pull requests on GitHub.
 ## Contact
 - ![Author](https://img.shields.io/badge/Author-Khin_Maung_Win-blue)
 
-- [![GitHub](https://img.shields.io/badge/GitHub-kokhinmaungwin-pink)](https://github.com/kokhinmaungwin)
+- [![GitHub](https://img.shields.io/badge/GitHub-kokhinmaungwin-yellow)](https://github.com/kokhinmaungwin)
   
-- Project: [BroCodeBox](https://github.com/kokhinmaungwin/BroCodeBox)
+- [![Project](https://img.shields.io/badge/Project-BroCodeBox-red](https://github.com/kokhinmaungwin/BroCodeBox)
 
 
 ---
